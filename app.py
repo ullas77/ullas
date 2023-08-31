@@ -4,8 +4,7 @@ def find_largest(num1, num2, num3):
     return max(num1, num2, num3)
 
 def main():
-    st.title("Hii i am Ullas kumar.
-    Find the Largest Number")
+    st.title("Hii i am Ullas kumar. Here we are Finding the Largest Number")
     
     num1 = st.number_input("Enter the first number:")
     num2 = st.number_input("Enter the second number:")
